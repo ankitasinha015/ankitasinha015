@@ -12,8 +12,6 @@
 -  Partner ecosystems and API platforms — self-service onboarding, developer experience, B2B growth
 
 # Currently Exploring
-
-- RapidAI — a post-surgery monitoring agent for care coordinators, beachheading on orthopedic recovery
 - How agentic commerce reshapes the payments and trust layer
 - Prototyping with Claude Code and n8n to pressure-test product hypotheses before any roadmap commit
 
