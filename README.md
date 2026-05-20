@@ -4,10 +4,10 @@
 - I build AI-powered products that take real workflow pain off clinical and care teams — from 0→1 features to platforms scaled across 100+ hospitals.
 - Most recently Senior PM at Upward Health (Series C healthtech, AI-powered care coordination). Previously GE Healthcare (Monitoring Solution, Digital Radiology) and LTIMindtree as a software engineer.
 
-# What I Build
+# What I Built
 
-- 🤖 Agentic in clinical workflows — care plan recommendation engines, voice agents for patient inquiries, escalation systems with human-in-the-loop , regulated product delivery, RAG architectures, LLM-powered virtual assistants, hallucination mitigation
-- 🏥 Connected medical device platforms — wearable monitoring scaled to 10+ hospitals across US, EU, and APAC
+- 🤖 Agentic in clinical workflows — care plan recommendation engines, voice agents for patient inquiries, escalation systems with human-in-the-loop, regulated product delivery, RAG architectures, LLM-powered virtual assistants, hallucination mitigation
+- 🏥 Connected medical device platforms — wearable monitoring scaled to 10+ hospitals across the US, EU, and APAC
 - 🔗 Healthcare integrations and platform plumbing — HL7/FHIR, SMART on FHIR, Salesforce Health Cloud, RCM systems (Elixir, ClaimMD, Athena)
 -  Partner ecosystems and API platforms — self-service onboarding, developer experience, B2B growth
 
@@ -18,9 +18,9 @@
 # My Stack
 
 - PM Tools: Jira · Confluence · Figma · Miro · Power BI · Tableau · Salesforce
-- AI & Build Tools: Claude · Claude Code · GPT-4 · LangChain · n8n · Vertex AI
+- AI & Build Tools: Claude · Claude Code · GPT-4 · LangChain · n8n · Vertex AI  · LangGraph 
 - Healthcare Tech: HL7/FHIR · SMART on FHIR · OWASP API Security · Salesforce Health Cloud
-- Engineering Background: 5 years as Senior Software Engineer at LTIMindtree before moving to PM
+- Engineering Background: 5 years as a Senior Software Engineer at LTIMindtree before moving to PM
 
 # A Bit More
 
