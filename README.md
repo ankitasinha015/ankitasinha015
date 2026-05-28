@@ -1,7 +1,7 @@
 # About me
 
 - Ankita Sinha — Senior Product Manager | Healthcare AI | Platform & Agentic AI
-- I build AI-powered products that take real workflow pain off clinical and care teams — from 0→1 features to platforms scaled across 100+ hospitals.
+- I build AI-powered products that take real workflow pain off clinical and care teams — from 0→1 features to platforms scaled across 10+ hospitals.
 - Most recently Senior PM at Upward Health (Series C healthtech, AI-powered care coordination). Previously GE Healthcare (Monitoring Solution, Digital Radiology) and LTIMindtree as a software engineer.
 
 # What I Built
