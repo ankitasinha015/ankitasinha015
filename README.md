@@ -32,4 +32,3 @@
 # Connect
 
 - [Find me on LinkedIn](https://www.linkedin.com/in/ankita-sinha15/)
-- https://thedesignharbour.netlify.app/
